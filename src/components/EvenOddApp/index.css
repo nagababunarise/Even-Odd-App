@@ -1,0 +1,35 @@
+.bg-container {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  height: 100vh;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 50px;
+}
+span {
+  padding: 10px;
+}
+.para {
+  color: #334155;
+  font-weight: 600;
+  font-family: 'Roboto';
+  font-size: 30px;
+}
+.button {
+  height: 40px;
+  width: 120px;
+  border-radius: 5px;
+}
+.description {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: bold;
+}
